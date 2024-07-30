@@ -1,0 +1,15 @@
+{
+    "name": "gulp-frontend",
+    "version": "1.0.0",
+    "scripts": {},
+    "keywords": [
+        "gulp",
+        "js",
+        "sass",
+        "pug",
+        "linters"
+    ],
+    "author": "VROOM",
+    "license": "WTFPL",
+    "description": "gulp-frontend-start"
+}
